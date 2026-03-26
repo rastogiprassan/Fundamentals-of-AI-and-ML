@@ -64,12 +64,12 @@ Fare = Baase Fare + (Rate per km × Distance) + Waiting Charges
 3. Run the file:
 python smartride.py
 
- 🚀 Future Enhancements
+# Future Enhancements
 - Integration with real-time traffic APIs  
 - Machine Learning model for fare prediction  
 - GUI using Tkinter or Web Ap 
 - Route optimization using maps  
 
-📌 Conclusion
+# Conclusion
 This project demonstrates how basic AI concepts like decision-making, optimization, and simulation can be applied to solvei real-world problems such as taxi fare estimation and ride selection.
 
