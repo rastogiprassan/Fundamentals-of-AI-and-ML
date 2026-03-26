@@ -1,10 +1,9 @@
 # 🚖 Smart ride : AI-Based Taxi Fare Optimization and Recommendation System
 
 ## 📌 Project Overview
-SmartRide is an AI-based taxi fare estimation and recommendation system developed using Python. The system calculates the total fare for different vehicle types and suggests the best option based on user preference — either lowest cost or fastest travel time.
+SmartRide is an AI-based taxi fare estimation and recommendation system developed using Python. The system calculates the total fare for different vehicle types and suggests the best option based on user preference , either lowest cost or fastest travel time.
 
 This project simulates real-world conditions like traffic and helps users make intelligent travel decisions.
-
 
 ## 🎯 Objectives
 - To estimate taxi fare based on distance, vehicle type, and waiting time  
