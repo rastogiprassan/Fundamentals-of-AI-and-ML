@@ -1,40 +1,40 @@
-# 🚖 Smart ride : AI-Based Taxi Fare Optimization and Recommendation System
+# Smart ride : AI-Based Taxi Fare Optimization and Recommendation System
 
-## 📌 Project Overview
-SmartRide is an AI-based taxi fare estimation and recommendation system developed using Python. The system calculates the total fare for different vehicle types and suggests the best option based on user preference , either lowest cost or fastest travel time.
+##  Project Overview
+SmartRide is an AI-based taxi fare estimation and recommendation system developed using Python. The system calculates the total fare for different vehicle types and suggests the best option based on user preference , either lowest cost or fastest travel timee.
 
-This project simulates real-world conditions like traffic and helps users make intelligent travel decisions.
+This projwct simulates real-world conditions like traffic and helps users make intelligent travel decisions.
 
-## 🎯 Objectives
+##  Objectives
 - To estimate taxi fare based on distance, vehicle type, and waiting time  
 - To recommend the best vehicle based on:
-  - 💰 Minimum Cost  
-  - 🚀 Minimum Travel Time  
+  -  Minimum Cost  
+  -  Minimum Travel Time  
 - To simulate real-world traffic conditions  
-- To demonstrate basic AI decision-making and optimization  
+- To demonstrate basic AI decisiosn-making and optimization  
 
-## 🧠 Technologies Used
+##  Technologies Used
 - Python  
 - Basic AI Concepts (Rule-Based System, Greedy Algorithm)  
 - Random Module (for traffic simulation)  
 
-## ⚙️ Features
-- 🚗 Multiple vehicle options (Hatchback, Sedan, SUV, Premium Sedan)  
-- 💸 Fare calculation based on distance and vehicle type  
-- ⏱️ Travel time estimation using speed and traffic factor  
-- 🤖 Intelligent recommendation system  
-- 👥 Passenger-based vehicle filtering  
-- 🔁 Round trip support  
-- ⏳ Waiting time charges  
+##  Features
+-  Multiple vehicle options (Hatchback, Sedan, SUV, Premium Sedan)  
+-  Fare calculation based on distance and vehicle type  
+-  Travel time estimation using speed and traffic factor  
+-  Intelligent recommendation system  
+-  Passenger-based vehicle filtering  
+-  Round trip support  
+-  Waiting time charges  
 
-## 🧩 How It Works
-1. User inputs:
+##  How It Works
+1. User inpits:
    - Distance (in km)
    - Number of passengers
    - Preference (Cost / Time)
 
 2. System:
-   - Calculates fare for all vehicle types  
+   - Calculation fare for all vehicle types  
    - Estimates travel time using simulated traffic  
    - Filters vehicles based on passenger capacity  
 
@@ -42,17 +42,17 @@ This project simulates real-world conditions like traffic and helps users make i
    - Displays all available options  
    - Recommends the best vehicle  
 
- 🧮 Algorithm Used
+  Algorithm Used
 
-# 1. Rule-Based System
+# 1 Rule-Based System
 Fare is calculated using predefined formulas:
 
-Fare = Base Fare + (Rate per km × Distance) + Waiting Charges
+Fare = Baase Fare + (Rate per km × Distance) + Waiting Charges
 
-# 2. Greedy Optimization Algorithm
+# 2 Greedy Optimization Algorithm
 - Selects the best option based on:
   - Minimum cost OR
-  - Minimum time  
+  - Miniimum time  
 
 # 3. Simulation
 - Random traffic factor is used to mimic real-world conditions  
@@ -67,9 +67,9 @@ python smartride.py
  🚀 Future Enhancements
 - Integration with real-time traffic APIs  
 - Machine Learning model for fare prediction  
-- GUI using Tkinter or Web App  
+- GUI using Tkinter or Web Ap 
 - Route optimization using maps  
 
 📌 Conclusion
-This project demonstrates how basic AI concepts like decision-making, optimization, and simulation can be applied to solve real-world problems such as taxi fare estimation and ride selection.
+This project demonstrates how basic AI concepts like decision-making, optimization, and simulation can be applied to solvei real-world problems such as taxi fare estimation and ride selection.
 
